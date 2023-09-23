@@ -1,3 +1,5 @@
+#Coded by: QyFashae
+
 import pickle 
 from sklearn.tree import *
 
